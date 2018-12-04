@@ -33,6 +33,7 @@
 
 ## 电子书
 
+- Dart学习笔记: https://github.com/chai2010/head-first-dart-book
 - Flutter实战: https://book.flutterchina.club/
 
 ## 出版的图书
@@ -43,7 +44,11 @@
 
 -----
 
-## 技术文章
+## 技术文章(中文)
+
+TODO
+
+## 技术文章(英文)
 
 TODO
 
