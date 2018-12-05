@@ -27,9 +27,14 @@
 
 ## 中国社区
 
-- https://flutter-io.cn/
-- https://flutterchina.club/
-- https://www.dart-china.org/
+- Flutter中国: https://flutter-io.cn/
+- Flutter中文网: https://flutterchina.club/
+- Dart China: https://www.dart-china.org/
+
+**知乎主题**
+
+- Dart: https://www.zhihu.com/topic/19647245
+- Flutter: https://www.zhihu.com/topic/20172123
 
 **仓库镜像**
 
