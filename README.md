@@ -47,11 +47,13 @@
 
 ## 技术文章(中文)
 
-TODO
+- [Flutter 1.0 正式版: Google 的便携 UI 工具包](https://mp.weixin.qq.com/s/hCIN42OMmmc6HkOveegwWQ)
+
 
 ## 技术文章(英文)
 
-TODO
+- [Flutter 1.0: Google’s Portable UI Toolkit](https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html)
+
 
 -----
 
