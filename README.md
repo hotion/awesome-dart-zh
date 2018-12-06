@@ -1,5 +1,9 @@
 # Dart/Flutter资料精选中文版
 
+*推广: [《WebAssembly标准入门》开始预售了，欢迎关注！](https://www.epubit.com/book/detail/40619)([京东购买](https://item.jd.com/12499372.html))*
+
+----
+
 - QQ群(Dart编程语言)：701773238
 
 ![](qq-qun-dart.jpg)
