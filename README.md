@@ -69,6 +69,7 @@
 
 ## 技术文章(英文)
 
+- [Introduction to Dart VM](https://mrale.ph/dartvm/)
 - [Flutter 1.0: Google’s Portable UI Toolkit](https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html)
 
 
