@@ -47,6 +47,10 @@
 - https://github.com/flutter/flutter/wiki/Using-Flutter-in-China
 - https://flutter-io.cn/#section-china-mirror
 
+**阿里的 Flutter Go**
+
+- https://github.com/alibaba/flutter-go
+
 ----
 
 ## 电子书
